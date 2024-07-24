@@ -1,2 +1,2 @@
 # Projetos_R
-Projetos em R
+Meu repositório de projetos em R.
